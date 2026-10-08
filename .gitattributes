@@ -8,3 +8,4 @@
 *.pdf binary
 *.xlsx binary
 *.geojson text eol=lf
+08_Jordanian_Unemployment_Truth/01_Raw/** -text
