@@ -11,6 +11,8 @@ One headline number, ten flat quarters, and the people behind it.
 ![Evidence](https://img.shields.io/badge/evidence-audited%20%2B%20hashed-3E4C52)
 ![License](https://img.shields.io/badge/code-MIT-lightgrey)
 
+**[Live preview site](https://musab-abukaraki-66.github.io/jordanian-unemployment-2025-2026/)** · **[Report PDF](docs/screens/desktop_export_default_state.pdf)** · **[Release v1.0.0](https://github.com/musab-abukaraki-66/jordanian-unemployment-2025-2026/releases/tag/v1.0.0)**
+
 ## The question
 *What is the unemployment reality for Jordanian citizens in 2025–2026, once definitions, periods, gender, age and headline numbers are separated?*
 
@@ -57,6 +59,9 @@ Rebuild after editing a script (close Desktop first):
 cd 09_Jordanian_Unemployment_Experience/05_PowerBI/scripts
 python b01_data.py && python b03_model.py && python b02_art.py && python b04_report.py && python set_data_folder.py
 ```
+
+## Integrity checks
+Run `python 08_Jordanian_Unemployment_Truth/04_Staging/verify_repo.py` to check: SHA-256 of all 32 official files, headline values (10-quarter 21.0–21.5% band, latest 21.0%, derived 2025 rate 21.31%, each 100-dot lens sums to 100) and path hygiene.
 
 ## Design process
 Four radically different concepts (spire relief map, persistence "treadmill", one hundred Jordanians, evidence ledger) were built with real data, reviewed by six independent critics (data truth, storytelling, visual design, Power BI feasibility, usability, performance) and merged into three pages. A true 3D relief was rejected: polygon area is not people and tall spires occlude each other. See [DESIGN_APPROVAL.md](09_Jordanian_Unemployment_Experience/DESIGN_APPROVAL.md).

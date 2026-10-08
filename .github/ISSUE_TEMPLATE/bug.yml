@@ -1,0 +1,12 @@
+name: Report bug
+description: Something does not render or behave as described
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes: {label: Power BI Desktop version}
+    validations: {required: true}
+  - type: textarea
+    id: steps
+    attributes: {label: Steps to reproduce}
+    validations: {required: true}

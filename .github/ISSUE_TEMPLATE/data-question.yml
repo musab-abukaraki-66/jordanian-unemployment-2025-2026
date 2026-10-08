@@ -1,0 +1,16 @@
+name: Data or methodology question
+description: Question or correction about a figure, definition or source
+labels: [data]
+body:
+  - type: input
+    id: figure
+    attributes:
+      label: Figure or page
+      placeholder: "e.g. Page 3, Ma'an 28.8%"
+    validations: {required: true}
+  - type: textarea
+    id: concern
+    attributes:
+      label: What looks wrong or unclear?
+      description: Include the official DoS table or page you compare against.
+    validations: {required: true}
