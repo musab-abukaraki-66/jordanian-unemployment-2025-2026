@@ -1,0 +1,9 @@
+{
+ "filename": "PX_EMPALL1_AGE.json",
+ "title": "DoS PxWeb EMPALL1 by AGE x Time",
+ "url": "https://jorinfo.dos.gov.jo/Databank/api/v1/en/DOS_Database/12/EMPALL1",
+ "retrieved": "2026-10-08T00:50:07+03:00",
+ "size": 1095,
+ "sha256": "9cf08cc031d38f13a6ee91fac2a0a9c2dfdf3939ea909c854a90076732ddfc9a",
+ "status": "OK"
+}

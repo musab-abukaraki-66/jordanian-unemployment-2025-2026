@@ -1,0 +1,36 @@
+{
+  "name": "Jordanian Unemployment",
+  "dataColors": [
+    "#1C1B19",
+    "#B5472E",
+    "#3E4C52",
+    "#D8C8A8",
+    "#6E2417",
+    "#8C8577"
+  ],
+  "foreground": "#1C1B19",
+  "background": "#F1ECE2",
+  "tableAccent": "#B5472E",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Georgia",
+      "fontSize": 28,
+      "color": "#1C1B19"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#1C1B19"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 10,
+      "color": "#1C1B19"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 9,
+      "color": "#5A4F44"
+    }
+  }
+}

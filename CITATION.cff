@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Jordanian Unemployment 2025-2026: a source-traced Power BI data story"
+type: software
+authors:
+  - family-names: "AbuKaraki"
+    given-names: "Musab"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-08"
+keywords: [jordan, unemployment, labour force survey, power bi, data visualization, official statistics]
+abstract: "Jordanian-citizens-only unemployment 2025-2026 from Department of Statistics releases, with an audited evidence pack and a three-page Power BI report."

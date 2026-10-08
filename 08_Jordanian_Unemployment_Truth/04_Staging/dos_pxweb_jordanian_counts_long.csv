@@ -1,0 +1,559 @@
+table,measure,breakdown,code,label,year,persons,population,source
+EMPALL1,unemployed,TOTAL,ALL,All,2017,329114,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,TOTAL,ALL,All,2018,322983,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,TOTAL,ALL,All,2019,324282,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,TOTAL,ALL,All,2020,404105,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,TOTAL,ALL,All,2021,435549,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,TOTAL,ALL,All,2022,419837,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,TOTAL,ALL,All,2023,418365,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,TOTAL,ALL,All,2024,429682,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,TOTAL,ALL,All,2025,431675,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,M,Male,2017,206090,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,M,Male,2018,225711,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,M,Male,2019,232112,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,M,Male,2020,293510,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,M,Male,2021,321241,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,M,Male,2022,298634,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,M,Male,2023,292788,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,M,Male,2024,285330,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,M,Male,2025,283579,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,F,Female,2017,123024,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,F,Female,2018,97272,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,F,Female,2019,92170,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,F,Female,2020,110595,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,F,Female,2021,114308,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,F,Female,2022,121202,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,F,Female,2023,125577,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,F,Female,2024,144352,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,SEX,F,Female,2025,148096,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A1519,15-19,2017,27771,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A1519,15-19,2018,28806,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A1519,15-19,2019,25647,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A1519,15-19,2020,26850,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A1519,15-19,2021,29624,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A1519,15-19,2022,24113,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A1519,15-19,2023,27164,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A1519,15-19,2024,27548,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A1519,15-19,2025,27162,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2024,20-24,2017,120195,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2024,20-24,2018,111528,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2024,20-24,2019,114107,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2024,20-24,2020,122183,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2024,20-24,2021,134902,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2024,20-24,2022,137184,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2024,20-24,2023,130304,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2024,20-24,2024,129706,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2024,20-24,2025,126716,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2529,25-29,2017,80216,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2529,25-29,2018,83967,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2529,25-29,2019,96286,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2529,25-29,2020,114061,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2529,25-29,2021,127646,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2529,25-29,2022,123776,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2529,25-29,2023,118398,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2529,25-29,2024,119177,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A2529,25-29,2025,129190,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A3039,30-39,2017,62293,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A3039,30-39,2018,58451,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A3039,30-39,2019,56091,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A3039,30-39,2020,79937,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A3039,30-39,2021,90419,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A3039,30-39,2022,93463,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A3039,30-39,2023,95631,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A3039,30-39,2024,108471,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A3039,30-39,2025,106409,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A4049,40-49,2017,28861,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A4049,40-49,2018,31168,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A4049,40-49,2019,25624,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A4049,40-49,2020,46020,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A4049,40-49,2021,44272,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A4049,40-49,2022,35119,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A4049,40-49,2023,37285,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A4049,40-49,2024,36832,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A4049,40-49,2025,34156,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A5059,50-59,2017,9402,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A5059,50-59,2018,8915,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A5059,50-59,2019,5796,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A5059,50-59,2020,13821,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A5059,50-59,2021,8234,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A5059,50-59,2022,5736,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A5059,50-59,2023,9166,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A5059,50-59,2024,7057,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A5059,50-59,2025,6777,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A60M,60+,2017,376,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A60M,60+,2018,147,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A60M,60+,2019,732,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A60M,60+,2020,1232,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A60M,60+,2021,453,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A60M,60+,2022,445,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A60M,60+,2023,416,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A60M,60+,2024,890,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,AGE,A60M,60+,2025,1265,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,1,Illiterate,2017,2640,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,1,Illiterate,2018,2758,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,1,Illiterate,2019,2284,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,1,Illiterate,2020,2527,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,1,Illiterate,2021,2144,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,1,Illiterate,2022,1665,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,1,Illiterate,2023,2322,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,1,Illiterate,2024,2321,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,1,Illiterate,2025,1431,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,2,Read & Write,2017,5014,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,2,Read & Write,2018,3867,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,2,Read & Write,2019,4006,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,2,Read & Write,2020,5586,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,2,Read & Write,2021,5368,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,2,Read & Write,2022,5137,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,2,Read & Write,2023,5501,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,2,Read & Write,2024,4778,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,2,Read & Write,2025,3301,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,3,Elementary,2017,17836,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,3,Elementary,2018,17986,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,3,Elementary,2019,16441,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,3,Elementary,2020,27713,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,3,Elementary,2021,25769,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,3,Elementary,2022,23172,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,3,Elementary,2023,22380,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,3,Elementary,2024,19825,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,3,Elementary,2025,18815,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,4,Preparatory,2017,23469,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,4,Preparatory,2018,22085,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,4,Preparatory,2019,21292,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,4,Preparatory,2020,30427,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,4,Preparatory,2021,25661,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,4,Preparatory,2022,22251,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,4,Preparatory,2023,20976,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,4,Preparatory,2024,19329,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,4,Preparatory,2025,19717,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,5,Basic Education,2017,95272,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,5,Basic Education,2018,94489,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,5,Basic Education,2019,101570,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,5,Basic Education,2020,124244,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,5,Basic Education,2021,136536,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,5,Basic Education,2022,130620,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,5,Basic Education,2023,127887,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,5,Basic Education,2024,125541,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,5,Basic Education,2025,124245,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,6,Vocational Apprentice-ship,2017,1835,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,6,Vocational Apprentice-ship,2018,3203,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,6,Vocational Apprentice-ship,2019,2488,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,6,Vocational Apprentice-ship,2020,4215,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,6,Vocational Apprentice-ship,2021,4697,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,6,Vocational Apprentice-ship,2022,3912,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,6,Vocational Apprentice-ship,2023,3383,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,6,Vocational Apprentice-ship,2024,3434,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,6,Vocational Apprentice-ship,2025,1629,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,7,Secondary,2017,21094,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,7,Secondary,2018,16241,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,7,Secondary,2019,17855,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,7,Secondary,2020,22090,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,7,Secondary,2021,25920,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,7,Secondary,2022,26925,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,7,Secondary,2023,26367,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,7,Secondary,2024,27765,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,7,Secondary,2025,33488,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,8,Diploma Intermediate,2017,29626,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,8,Diploma Intermediate,2018,26003,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,8,Diploma Intermediate,2019,19050,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,8,Diploma Intermediate,2020,29008,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,8,Diploma Intermediate,2021,28463,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,8,Diploma Intermediate,2022,28969,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,8,Diploma Intermediate,2023,30203,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,8,Diploma Intermediate,2024,33139,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,8,Diploma Intermediate,2025,34337,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,9,Bachelor & Above,2017,132328,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,9,Bachelor & Above,2018,136351,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,9,Bachelor & Above,2019,139297,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,9,Bachelor & Above,2020,158294,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,9,Bachelor & Above,2021,180991,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,9,Bachelor & Above,2022,177186,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,9,Bachelor & Above,2023,179346,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,9,Bachelor & Above,2024,193549,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,EDU,9,Bachelor & Above,2025,194711,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,11,Amman,2017,122406,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,11,Amman,2018,123637,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,11,Amman,2019,121502,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,11,Amman,2020,170854,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,11,Amman,2021,173656,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,11,Amman,2022,154507,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,11,Amman,2023,160218,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,11,Amman,2024,169921,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,11,Amman,2025,155900,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,12,Balqa,2017,22086,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,12,Balqa,2018,19418,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,12,Balqa,2019,20241,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,12,Balqa,2020,23344,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,12,Balqa,2021,27973,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,12,Balqa,2022,27616,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,12,Balqa,2023,27184,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,12,Balqa,2024,26699,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,12,Balqa,2025,29246,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,13,Zarqa,2017,41829,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,13,Zarqa,2018,46871,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,13,Zarqa,2019,46029,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,13,Zarqa,2020,50769,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,13,Zarqa,2021,51172,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,13,Zarqa,2022,49371,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,13,Zarqa,2023,51362,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,13,Zarqa,2024,58622,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,13,Zarqa,2025,50474,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,14,Madaba,2017,10819,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,14,Madaba,2018,9549,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,14,Madaba,2019,8754,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,14,Madaba,2020,9044,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,14,Madaba,2021,10912,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,14,Madaba,2022,9105,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,14,Madaba,2023,9844,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,14,Madaba,2024,9475,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,14,Madaba,2025,10726,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,21,Irbid,2017,62005,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,21,Irbid,2018,56900,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,21,Irbid,2019,64628,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,21,Irbid,2020,74446,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,21,Irbid,2021,88619,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,21,Irbid,2022,90640,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,21,Irbid,2023,86442,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,21,Irbid,2024,83772,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,21,Irbid,2025,97011,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,22,Mafraq,2017,16386,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,22,Mafraq,2018,15184,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,22,Mafraq,2019,15123,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,22,Mafraq,2020,18625,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,22,Mafraq,2021,21174,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,22,Mafraq,2022,23165,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,22,Mafraq,2023,21541,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,22,Mafraq,2024,21309,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,22,Mafraq,2025,22599,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,23,Jarash,2017,9164,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,23,Jarash,2018,9136,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,23,Jarash,2019,8436,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,23,Jarash,2020,9985,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,23,Jarash,2021,11975,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,23,Jarash,2022,10995,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,23,Jarash,2023,11285,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,23,Jarash,2024,10627,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,23,Jarash,2025,11686,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,24,Ajloun,2017,8248,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,24,Ajloun,2018,8520,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,24,Ajloun,2019,8347,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,24,Ajloun,2020,8259,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,24,Ajloun,2021,9581,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,24,Ajloun,2022,10306,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,24,Ajloun,2023,9386,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,24,Ajloun,2024,9332,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,24,Ajloun,2025,11019,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,31,Karak,2017,14354,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,31,Karak,2018,12372,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,31,Karak,2019,11199,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,31,Karak,2020,13121,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,31,Karak,2021,14691,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,31,Karak,2022,19161,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,31,Karak,2023,18328,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,31,Karak,2024,18146,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,31,Karak,2025,18070,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,32,Tafiela,2017,7969,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,32,Tafiela,2018,6652,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,32,Tafiela,2019,6253,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,32,Tafiela,2020,8346,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,32,Tafiela,2021,6781,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,32,Tafiela,2022,6993,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,32,Tafiela,2023,6441,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,32,Tafiela,2024,6219,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,32,Tafiela,2025,6063,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,33,Ma'an,2017,8809,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,33,Ma'an,2018,8097,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,33,Ma'an,2019,7643,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,33,Ma'an,2020,9617,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,33,Ma'an,2021,10529,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,33,Ma'an,2022,10322,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,33,Ma'an,2023,10111,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,33,Ma'an,2024,9817,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,33,Ma'an,2025,12749,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,34,Aqaba,2017,5039,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,34,Aqaba,2018,6649,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,34,Aqaba,2019,6128,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,34,Aqaba,2020,7696,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,34,Aqaba,2021,8487,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,34,Aqaba,2022,7655,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,34,Aqaba,2023,6224,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,34,Aqaba,2024,5742,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL1,unemployed,GOV,34,Aqaba,2025,6134,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL1
+EMPALL,employed,TOTAL,ALL,All,2017,1465746,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,TOTAL,ALL,All,2018,1411265,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,TOTAL,ALL,All,2019,1377905,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,TOTAL,ALL,All,2020,1338308,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,TOTAL,ALL,All,2021,1371932,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,TOTAL,ALL,All,2022,1418821,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,TOTAL,ALL,All,2023,1485675,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,TOTAL,ALL,All,2024,1576448,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,TOTAL,ALL,All,2025,1594162,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,M,Male,2017,1194794,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,M,Male,2018,1145882,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,M,Male,2019,1128204,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,M,Male,2020,1088156,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,M,Male,2021,1114578,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,M,Male,2022,1153713,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,M,Male,2023,1202572,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,M,Male,2024,1281431,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,M,Male,2025,1296292,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,F,Female,2017,270952,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,F,Female,2018,265382,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,F,Female,2019,249702,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,F,Female,2020,250152,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,F,Female,2021,257354,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,F,Female,2022,265107,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,F,Female,2023,283103,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,F,Female,2024,295017,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,SEX,F,Female,2025,297871,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A1519,15-19,2017,46397,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A1519,15-19,2018,33452,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A1519,15-19,2019,27462,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A1519,15-19,2020,21402,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A1519,15-19,2021,19006,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A1519,15-19,2022,21168,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A1519,15-19,2023,21016,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A1519,15-19,2024,21079,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A1519,15-19,2025,21707,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2024,20-24,2017,202209,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2024,20-24,2018,183850,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2024,20-24,2019,177044,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2024,20-24,2020,153569,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2024,20-24,2021,150263,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2024,20-24,2022,160895,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2024,20-24,2023,164039,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2024,20-24,2024,158858,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2024,20-24,2025,150255,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2529,25-29,2017,236469,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2529,25-29,2018,238656,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2529,25-29,2019,235166,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2529,25-29,2020,226186,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2529,25-29,2021,240633,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2529,25-29,2022,256700,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2529,25-29,2023,262357,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2529,25-29,2024,273839,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A2529,25-29,2025,274126,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A3039,30-39,2017,447290,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A3039,30-39,2018,431101,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A3039,30-39,2019,419520,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A3039,30-39,2020,413791,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A3039,30-39,2021,411155,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A3039,30-39,2022,422073,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A3039,30-39,2023,461779,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A3039,30-39,2024,499937,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A3039,30-39,2025,521622,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A4049,40-49,2017,336622,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A4049,40-49,2018,330811,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A4049,40-49,2019,336662,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A4049,40-49,2020,341689,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A4049,40-49,2021,350670,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A4049,40-49,2022,350916,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A4049,40-49,2023,362505,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A4049,40-49,2024,396977,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A4049,40-49,2025,405834,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A5059,50-59,2017,153473,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A5059,50-59,2018,154974,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A5059,50-59,2019,147484,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A5059,50-59,2020,147052,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A5059,50-59,2021,162238,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A5059,50-59,2022,166894,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A5059,50-59,2023,175095,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A5059,50-59,2024,181128,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A5059,50-59,2025,178393,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A60M,60+,2017,43285,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A60M,60+,2018,38420,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A60M,60+,2019,34569,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A60M,60+,2020,34619,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A60M,60+,2021,37967,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A60M,60+,2022,40174,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A60M,60+,2023,38883,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A60M,60+,2024,44630,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,AGE,A60M,60+,2025,42227,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,1,Illiterate,2017,13766,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,1,Illiterate,2018,13092,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,1,Illiterate,2019,11278,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,1,Illiterate,2020,8960,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,1,Illiterate,2021,8313,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,1,Illiterate,2022,7106,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,1,Illiterate,2023,8490,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,1,Illiterate,2024,9115,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,1,Illiterate,2025,6270,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,2,Read & Write,2017,28329,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,2,Read & Write,2018,21374,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,2,Read & Write,2019,19207,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,2,Read & Write,2020,20292,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,2,Read & Write,2021,21334,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,2,Read & Write,2022,22002,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,2,Read & Write,2023,19642,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,2,Read & Write,2024,19091,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,2,Read & Write,2025,18732,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,3,Elementary,2017,100781,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,3,Elementary,2018,82629,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,3,Elementary,2019,80017,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,3,Elementary,2020,72653,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,3,Elementary,2021,80740,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,3,Elementary,2022,81942,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,3,Elementary,2023,78437,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,3,Elementary,2024,76506,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,3,Elementary,2025,76470,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,4,Preparatory,2017,179709,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,4,Preparatory,2018,170417,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,4,Preparatory,2019,155391,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,4,Preparatory,2020,144886,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,4,Preparatory,2021,144790,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,4,Preparatory,2022,139144,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,4,Preparatory,2023,135895,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,4,Preparatory,2024,130551,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,4,Preparatory,2025,126442,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,5,Basic Education,2017,413140,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,5,Basic Education,2018,410737,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,5,Basic Education,2019,425964,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,5,Basic Education,2020,409647,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,5,Basic Education,2021,408298,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,5,Basic Education,2022,439550,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,5,Basic Education,2023,471420,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,5,Basic Education,2024,504624,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,5,Basic Education,2025,521057,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,6,Vocational Apprentice-ship,2017,11345,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,6,Vocational Apprentice-ship,2018,10463,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,6,Vocational Apprentice-ship,2019,11506,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,6,Vocational Apprentice-ship,2020,10359,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,6,Vocational Apprentice-ship,2021,13683,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,6,Vocational Apprentice-ship,2022,14343,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,6,Vocational Apprentice-ship,2023,17051,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,6,Vocational Apprentice-ship,2024,15451,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,6,Vocational Apprentice-ship,2025,14677,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,7,Secondary,2017,146834,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,7,Secondary,2018,128876,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,7,Secondary,2019,121792,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,7,Secondary,2020,119769,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,7,Secondary,2021,122024,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,7,Secondary,2022,132885,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,7,Secondary,2023,139259,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,7,Secondary,2024,148363,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,7,Secondary,2025,154324,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,8,Diploma Intermediate,2017,137819,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,8,Diploma Intermediate,2018,129546,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,8,Diploma Intermediate,2019,123179,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,8,Diploma Intermediate,2020,116875,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,8,Diploma Intermediate,2021,118361,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,8,Diploma Intermediate,2022,117746,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,8,Diploma Intermediate,2023,119201,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,8,Diploma Intermediate,2024,117262,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,8,Diploma Intermediate,2025,110187,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,9,Bachelor & Above,2017,434023,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,9,Bachelor & Above,2018,444131,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,9,Bachelor & Above,2019,429572,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,9,Bachelor & Above,2020,434868,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,9,Bachelor & Above,2021,454388,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,9,Bachelor & Above,2022,464102,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,9,Bachelor & Above,2023,496281,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,9,Bachelor & Above,2024,555485,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,EDU,9,Bachelor & Above,2025,566002,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,11,Amman,2017,583119,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,11,Amman,2018,536058,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,11,Amman,2019,521237,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,11,Amman,2020,516576,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,11,Amman,2021,548806,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,11,Amman,2022,570417,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,11,Amman,2023,596450,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,11,Amman,2024,651744,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,11,Amman,2025,658907,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,12,Balqa,2017,92375,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,12,Balqa,2018,85433,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,12,Balqa,2019,76870,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,12,Balqa,2020,73174,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,12,Balqa,2021,79112,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,12,Balqa,2022,82087,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,12,Balqa,2023,89478,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,12,Balqa,2024,94185,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,12,Balqa,2025,91338,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,13,Zarqa,2017,189814,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,13,Zarqa,2018,183282,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,13,Zarqa,2019,169215,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,13,Zarqa,2020,168187,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,13,Zarqa,2021,173276,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,13,Zarqa,2022,178473,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,13,Zarqa,2023,192343,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,13,Zarqa,2024,201485,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,13,Zarqa,2025,196839,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,14,Madaba,2017,33229,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,14,Madaba,2018,31535,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,14,Madaba,2019,29576,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,14,Madaba,2020,29685,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,14,Madaba,2021,33212,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,14,Madaba,2022,34156,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,14,Madaba,2023,36916,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,14,Madaba,2024,36797,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,14,Madaba,2025,40244,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,21,Irbid,2017,285347,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,21,Irbid,2018,288419,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,21,Irbid,2019,283448,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,21,Irbid,2020,265170,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,21,Irbid,2021,263769,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,21,Irbid,2022,272995,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,21,Irbid,2023,277401,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,21,Irbid,2024,293202,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,21,Irbid,2025,297316,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,22,Mafraq,2017,66775,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,22,Mafraq,2018,65119,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,22,Mafraq,2019,69343,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,22,Mafraq,2020,66546,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,22,Mafraq,2021,62705,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,22,Mafraq,2022,61517,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,22,Mafraq,2023,67091,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,22,Mafraq,2024,70440,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,22,Mafraq,2025,73021,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,23,Jarash,2017,36980,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,23,Jarash,2018,36982,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,23,Jarash,2019,38534,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,23,Jarash,2020,37398,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,23,Jarash,2021,35345,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,23,Jarash,2022,37371,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,23,Jarash,2023,39827,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,23,Jarash,2024,40214,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,23,Jarash,2025,39574,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,24,Ajloun,2017,34247,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,24,Ajloun,2018,34098,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,24,Ajloun,2019,34530,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,24,Ajloun,2020,33378,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,24,Ajloun,2021,33442,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,24,Ajloun,2022,34103,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,24,Ajloun,2023,34517,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,24,Ajloun,2024,34716,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,24,Ajloun,2025,36055,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,31,Karak,2017,66234,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,31,Karak,2018,68055,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,31,Karak,2019,69260,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,31,Karak,2020,66455,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,31,Karak,2021,64279,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,31,Karak,2022,66096,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,31,Karak,2023,70054,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,31,Karak,2024,71494,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,31,Karak,2025,72556,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,32,Tafiela,2017,19873,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,32,Tafiela,2018,21599,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,32,Tafiela,2019,23650,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,32,Tafiela,2020,23089,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,32,Tafiela,2021,18584,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,32,Tafiela,2022,20315,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,32,Tafiela,2023,21173,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,32,Tafiela,2024,22233,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,32,Tafiela,2025,22495,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,33,Ma'an,2017,27935,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,33,Ma'an,2018,31452,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,33,Ma'an,2019,32003,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,33,Ma'an,2020,29585,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,33,Ma'an,2021,31590,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,33,Ma'an,2022,33981,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,33,Ma'an,2023,32951,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,33,Ma'an,2024,32587,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,33,Ma'an,2025,31492,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,34,Aqaba,2017,29818,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,34,Aqaba,2018,29231,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,34,Aqaba,2019,30240,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,34,Aqaba,2020,29066,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,34,Aqaba,2021,27812,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,34,Aqaba,2022,27309,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,34,Aqaba,2023,27475,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,34,Aqaba,2024,27351,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL
+EMPALL,employed,GOV,34,Aqaba,2025,34326,Jordanian citizens aged 15+,DoS PxWeb DOS_Database/12/EMPALL

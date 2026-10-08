@@ -1,0 +1,65 @@
+table LegendKey
+	lineageTag: 30a93e84-ecbb-5c41-b875-06e100d25ecf
+
+	column Lens
+		dataType: string
+		lineageTag: 7e3873fe-b589-5943-883f-792112137df8
+		summarizeBy: none
+		sourceColumn: Lens
+
+	column GroupOrder
+		dataType: int64
+		formatString: 0
+		lineageTag: 9500e566-cc21-5e5d-9d81-81d82eaec8e3
+		summarizeBy: none
+		sourceColumn: GroupOrder
+
+	column Group
+		dataType: string
+		lineageTag: e10a4372-69c9-5b9a-8702-606088c979f0
+		summarizeBy: none
+		sourceColumn: Group
+
+	column Label
+		dataType: string
+		lineageTag: a566ba81-e209-53b3-af52-f0e4ca1948e6
+		summarizeBy: none
+		sourceColumn: Label
+
+	column Count
+		dataType: int64
+		formatString: 0
+		lineageTag: 45ecd5ba-06a9-5c1f-88b3-1664bd3d1c12
+		summarizeBy: none
+		sourceColumn: Count
+
+	column Rgb
+		dataType: string
+		lineageTag: cd5ef8bd-2369-5a1b-accc-1661b84bb24c
+		summarizeBy: none
+		sourceColumn: Rgb
+
+	column TextRgb
+		dataType: string
+		lineageTag: c3f89e50-dd1f-5ed4-a485-99a570c96db7
+		summarizeBy: none
+		sourceColumn: TextRgb
+
+	column MidY
+		dataType: double
+		formatString: 0.0
+		lineageTag: 08287003-69f5-5b33-a926-58ac9a5a9c9d
+		summarizeBy: none
+		sourceColumn: MidY
+
+	partition LegendKey = m
+		mode: import
+		source =
+				let
+				  Source = Csv.Document(File.Contents(DataFolder & "LegendKey.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				  Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				  Typed = Table.TransformColumnTypes(Promoted, {{"Lens", type text}, {"GroupOrder", Int64.Type}, {"Group", type text}, {"Label", type text}, {"Count", Int64.Type}, {"Rgb", type text}, {"TextRgb", type text}, {"MidY", type number}}, "en-US")
+				in
+				  Typed
+
+	annotation PBI_ResultType = Table

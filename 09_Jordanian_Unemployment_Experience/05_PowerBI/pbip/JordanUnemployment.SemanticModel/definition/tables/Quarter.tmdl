@@ -1,0 +1,80 @@
+table Quarter
+	lineageTag: 2ea44743-1a51-5b91-9b85-e1942caf39c9
+
+	column Order
+		dataType: int64
+		formatString: 0
+		lineageTag: 01d2f007-cfc0-50d5-90c3-7271306d97e1
+		summarizeBy: none
+		sourceColumn: Order
+
+	column Label
+		dataType: string
+		lineageTag: 7139cd5a-302a-5f0d-b55a-dfc7c8348575
+		summarizeBy: none
+		sourceColumn: Label
+
+	column Key
+		dataType: string
+		lineageTag: 90f0f159-63a4-55fc-b9d5-4fa39cfb04e7
+		summarizeBy: none
+		sourceColumn: Key
+
+	column Total
+		dataType: double
+		formatString: 0.0
+		lineageTag: 9420dd39-07b6-5359-92b8-59d67cb6a907
+		summarizeBy: none
+		sourceColumn: Total
+
+	column Male
+		dataType: double
+		formatString: 0.0
+		lineageTag: afc643ec-4c86-59c7-922c-8af9698ef05b
+		summarizeBy: none
+		sourceColumn: Male
+
+	column Female
+		dataType: double
+		formatString: 0.0
+		lineageTag: f330df9e-aa2f-5ac2-8fbd-9cb806f4e3cf
+		summarizeBy: none
+		sourceColumn: Female
+
+	column HotX
+		dataType: double
+		formatString: 0.0
+		lineageTag: 2d53fab3-7301-5548-8f32-01df85e32991
+		summarizeBy: none
+		sourceColumn: HotX
+
+	column HotY
+		dataType: double
+		formatString: 0.0
+		lineageTag: c37e524f-9e8f-50b6-b99d-d0440573d67e
+		summarizeBy: none
+		sourceColumn: HotY
+
+	column MaleBasis
+		dataType: string
+		lineageTag: 4e12dbac-0899-5df1-a2e4-8b59070e9931
+		summarizeBy: none
+		sourceColumn: MaleBasis
+
+	column FemaleBasis
+		dataType: string
+		lineageTag: ea4d2a20-a0c8-5879-8bcf-0726d64f62c9
+		summarizeBy: none
+		sourceColumn: FemaleBasis
+
+	partition Quarter = m
+		mode: import
+		source =
+				let
+				  Source = Csv.Document(File.Contents(DataFolder & "Quarter.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				  Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				  Typed = Table.TransformColumnTypes(Promoted, {{"Order", Int64.Type}, {"Label", type text}, {"Key", type text}, {"Total", type number}, {"Male", type number}, {"Female", type number}, {"HotX", type number}, {"HotY", type number}, {"MaleBasis", type text}, {"FemaleBasis", type text}}, "en-US")
+				in
+				  Typed
+
+	annotation PBI_ResultType = Table

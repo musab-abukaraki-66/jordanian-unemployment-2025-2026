@@ -1,0 +1,49 @@
+table Annual
+	lineageTag: 11d4ebe0-5397-515d-8964-293a5c7f8f95
+
+	column Year
+		dataType: int64
+		formatString: 0
+		lineageTag: 6b3aeadd-2798-53aa-bc27-d25671115990
+		summarizeBy: none
+		sourceColumn: Year
+
+	column Unemployed
+		dataType: int64
+		formatString: 0
+		lineageTag: 84f76177-d07b-56ef-8039-0899ef28574d
+		summarizeBy: none
+		sourceColumn: Unemployed
+
+	column Employed
+		dataType: int64
+		formatString: 0
+		lineageTag: fadb8a09-901a-508b-b88f-d52ff30e337b
+		summarizeBy: none
+		sourceColumn: Employed
+
+	column LabourForce
+		dataType: int64
+		formatString: 0
+		lineageTag: 22ff713d-2f00-5791-b692-92e174fe4a6c
+		summarizeBy: none
+		sourceColumn: LabourForce
+
+	column RateDerived
+		dataType: double
+		formatString: 0.0
+		lineageTag: 9a0c0d78-f2d4-56ff-8a2d-40fae9697750
+		summarizeBy: none
+		sourceColumn: RateDerived
+
+	partition Annual = m
+		mode: import
+		source =
+				let
+				  Source = Csv.Document(File.Contents(DataFolder & "Annual.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				  Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				  Typed = Table.TransformColumnTypes(Promoted, {{"Year", Int64.Type}, {"Unemployed", Int64.Type}, {"Employed", Int64.Type}, {"LabourForce", Int64.Type}, {"RateDerived", type number}}, "en-US")
+				in
+				  Typed
+
+	annotation PBI_ResultType = Table

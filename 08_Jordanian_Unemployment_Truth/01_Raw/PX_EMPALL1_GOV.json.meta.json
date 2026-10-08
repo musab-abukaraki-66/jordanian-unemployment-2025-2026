@@ -1,0 +1,9 @@
+{
+ "filename": "PX_EMPALL1_GOV.json",
+ "title": "DoS PxWeb EMPALL1 by GOV x Time",
+ "url": "https://jorinfo.dos.gov.jo/Databank/api/v1/en/DOS_Database/12/EMPALL1",
+ "retrieved": "2026-10-08T00:50:33+03:00",
+ "size": 1433,
+ "sha256": "ba8e47c3f621ffff4d24ea4f1ccaf04b516705e294e50a2285dfe4c4fa7ec5c0",
+ "status": "OK"
+}

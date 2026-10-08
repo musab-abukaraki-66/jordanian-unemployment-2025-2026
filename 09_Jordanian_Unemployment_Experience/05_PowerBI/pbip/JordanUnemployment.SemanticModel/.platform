@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "JordanUnemployment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7f1c9a62-3b4d-4e8a-8c55-2a9d0e6b1f55"
+  }
+}

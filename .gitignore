@@ -1,0 +1,13 @@
+# Power BI local state (never publish: caches and account-bound settings)
+**/.pbi/
+*.abf
+localSettings.json
+editorSettings.json
+cache.abf
+# Python
+__pycache__/
+*.pyc
+# OS / editor
+Thumbs.db
+.DS_Store
+*.bak

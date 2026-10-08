@@ -1,0 +1,53 @@
+table Dots
+	lineageTag: db582bda-522c-5a1c-af7c-95a8f9ff7e3f
+
+	column Lens
+		dataType: string
+		lineageTag: 19d35409-eff0-5bdf-840a-df61863c0744
+		summarizeBy: none
+		sourceColumn: Lens
+
+	column Idx
+		dataType: int64
+		formatString: 0
+		lineageTag: 1f1e59a7-4d5e-58d8-9fec-218e793942b5
+		summarizeBy: none
+		sourceColumn: Idx
+
+	column Row
+		dataType: int64
+		formatString: 0
+		lineageTag: 3c0c9067-b6cc-584d-b007-149b09e6d263
+		summarizeBy: none
+		sourceColumn: Row
+
+	column Col
+		dataType: int64
+		formatString: 0
+		lineageTag: 2b62bc17-d37a-5236-8b83-1125d3a51cf4
+		summarizeBy: none
+		sourceColumn: Col
+
+	column Group
+		dataType: string
+		lineageTag: 555ec74b-9464-58e8-9684-bc02393b5916
+		summarizeBy: none
+		sourceColumn: Group
+
+	column Rgb
+		dataType: string
+		lineageTag: 6482df59-5d33-5fab-b4b1-9c79698e69f8
+		summarizeBy: none
+		sourceColumn: Rgb
+
+	partition Dots = m
+		mode: import
+		source =
+				let
+				  Source = Csv.Document(File.Contents(DataFolder & "Dots.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				  Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				  Typed = Table.TransformColumnTypes(Promoted, {{"Lens", type text}, {"Idx", Int64.Type}, {"Row", Int64.Type}, {"Col", Int64.Type}, {"Group", type text}, {"Rgb", type text}}, "en-US")
+				in
+				  Typed
+
+	annotation PBI_ResultType = Table

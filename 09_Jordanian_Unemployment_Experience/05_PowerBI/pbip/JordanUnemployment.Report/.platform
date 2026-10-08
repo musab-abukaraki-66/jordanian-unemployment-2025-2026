@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Jordanian Unemployment 2025-2026"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2b8d4e71-90c3-4f1a-b7d6-5e0a3c9f8d55"
+  }
+}

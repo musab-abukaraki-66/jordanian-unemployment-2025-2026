@@ -1,0 +1,18 @@
+model JordanUnemployment
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["Quarter", "Annual", "DimGov", "Dots", "LegendKey", "Lens", "Facts", "_Measures", "DataFolder"]
+
+ref table Quarter
+ref table Annual
+ref table DimGov
+ref table Dots
+ref table LegendKey
+ref table Lens
+ref table Facts
+ref table _Measures

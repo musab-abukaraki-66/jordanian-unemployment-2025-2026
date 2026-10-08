@@ -1,0 +1,55 @@
+Quarter,Series,Value,Basis,Source
+2022 Q1,Total,22.8,published text,Emp_Q12022.pdf
+2022 Q2,Total,22.6,published text,Emp_Q2_2022.pdf
+2022 Q3,Total,23.1,published text,Emp_Q32022.pdf
+2022 Q4,Total,22.9,published text,unemp_Q4_e_2023.pdf (comparison)
+2023 Q1,Total,21.9,published (series),unemp_Q1_2024_en.pdf Fig 1
+2023 Q2,Total,22.3,published (series),unemp_Q3_2023_en.pdf
+2023 Q3,Total,22.3,published text,unemp_Q3_2023_en.pdf
+2023 Q4,Total,21.4,published text,unemp_Q4_e_2023.pdf
+2024 Q1,Total,21.4,published text,unemp_Q1_2024_en.pdf
+2024 Q2,Total,21.4,published text,unemp_Q2_2024_en.pdf
+2024 Q3,Total,21.5,published text,unemp_Q3_2025_en.pdf comparison
+2024 Q4,Total,21.3,published text,unemp_Q4_2025_en.pdf comparison
+2025 Q1,Total,21.3,published text,unemp_Q1_en_2025.pdf
+2025 Q2,Total,21.3,published text,unemp_Q3_2025_en.pdf; unemp_Q2_2026_en.pdf
+2025 Q3,Total,21.4,published text,unemp_Q3_2025_en.pdf
+2025 Q4,Total,21.2,published text,unemp_Q4_2025_en.pdf
+2026 Q1,Total,21.1,published text,unemp_Q1_2026_en.pdf
+2026 Q2,Total,21.0,published text,unemp_Q2_2026_en.pdf
+2022 Q1,Male,20.5,published text,Emp_Q12022.pdf
+2022 Q2,Male,20.7,published text,Emp_Q2_2022.pdf
+2022 Q3,Male,20.5,implied (19.8 + 0.7),unemp_Q3_2023_en.pdf
+2022 Q4,Male,20.6,implied (18.9 + 1.7),unemp_Q4_e_2023.pdf
+2023 Q1,Male,19.6,implied (17.4 + 2.2),unemp_Q1_2024_en.pdf
+2023 Q2,Male,20.0,CHART LABEL ONLY,DoS bulletin figure series
+2023 Q3,Male,19.8,published text,unemp_Q3_2023_en.pdf
+2023 Q4,Male,18.9,published text,unemp_Q4_e_2023.pdf
+2024 Q1,Male,17.4,published text,unemp_Q1_2024_en.pdf
+2024 Q2,Male,18.9,CHART LABEL ONLY,DoS bulletin figure series
+2024 Q3,Male,18.3,implied (18.0 + 0.3),unemp_Q3_2025_en.pdf
+2024 Q4,Male,18.2,implied (17.2 + 1.0),unemp_Q4_2025_en.pdf
+2025 Q1,Male,18.6,published text,unemp_Q1_en_2025.pdf
+2025 Q2,Male,18.1,implied (18.5 - 0.4),unemp_Q2_2026_en.pdf; unemp_Q3_2025_en.pdf
+2025 Q3,Male,18.0,published text,unemp_Q3_2025_en.pdf
+2025 Q4,Male,17.2,published text,unemp_Q4_2025_en.pdf
+2026 Q1,Male,17.9,published text,unemp_Q1_2026_en.pdf
+2026 Q2,Male,18.5,published text,unemp_Q2_2026_en.pdf
+2022 Q1,Female,31.5,published text,Emp_Q12022.pdf
+2022 Q2,Female,29.4,published text,Emp_Q2_2022.pdf
+2022 Q3,Female,33.1,implied (31.7 + 1.4),unemp_Q3_2023_en.pdf
+2022 Q4,Female,31.7,implied (29.8 + 1.9),unemp_Q4_e_2023.pdf
+2023 Q1,Female,30.7,implied (34.7 - 4.0),unemp_Q1_2024_en.pdf
+2023 Q2,Female,30.9,CHART LABEL ONLY,DoS bulletin figure series
+2023 Q3,Female,31.7,published text,unemp_Q3_2023_en.pdf
+2023 Q4,Female,29.8,published text,unemp_Q4_e_2023.pdf
+2024 Q1,Female,34.7,published text,unemp_Q1_2024_en.pdf
+2024 Q2,Female,31.0,CHART LABEL ONLY,DoS bulletin figure series
+2024 Q3,Female,33.3,implied (33.9 - 0.6),unemp_Q3_2025_en.pdf
+2024 Q4,Female,32.2,implied (34.8 - 2.6),unemp_Q4_2025_en.pdf
+2025 Q1,Female,31.2,published text,unemp_Q1_en_2025.pdf
+2025 Q2,Female,32.8,implied (33.9 - 1.1),unemp_Q3_2025_en.pdf; unemp_Q2_2026_en.pdf
+2025 Q3,Female,33.9,published text,unemp_Q3_2025_en.pdf
+2025 Q4,Female,34.8,published text,unemp_Q4_2025_en.pdf
+2026 Q1,Female,32.7,published text,unemp_Q1_2026_en.pdf
+2026 Q2,Female,30.3,published text,unemp_Q2_2026_en.pdf

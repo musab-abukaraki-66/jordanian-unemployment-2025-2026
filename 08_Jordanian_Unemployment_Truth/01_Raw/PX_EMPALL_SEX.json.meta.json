@@ -1,0 +1,9 @@
+{
+ "filename": "PX_EMPALL_SEX.json",
+ "title": "DoS PxWeb EMPALL by SEX x Time",
+ "url": "https://jorinfo.dos.gov.jo/Databank/api/v1/en/DOS_Database/12/EMPALL",
+ "retrieved": "2026-10-08T00:50:35+03:00",
+ "size": 836,
+ "sha256": "e35fe6d5e66b64595a20e8010d98e3d3d439627d3c5c779db14c1f691b939a86",
+ "status": "OK"
+}

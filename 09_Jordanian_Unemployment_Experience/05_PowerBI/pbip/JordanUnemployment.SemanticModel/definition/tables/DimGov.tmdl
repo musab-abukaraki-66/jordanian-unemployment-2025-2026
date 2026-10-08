@@ -1,0 +1,134 @@
+table DimGov
+	lineageTag: 7ac65cc5-8cd0-5c1f-8f3f-6237bdb226b9
+
+	column Order
+		dataType: int64
+		formatString: 0
+		lineageTag: 40a4f19e-e96d-5252-8767-b3abf541aa86
+		summarizeBy: none
+		sourceColumn: Order
+
+	column Code
+		dataType: string
+		lineageTag: 35b1d393-bd22-5b63-98ff-6baf62466b52
+		summarizeBy: none
+		sourceColumn: Code
+
+	column Name
+		dataType: string
+		lineageTag: 937fd1c5-5d7d-57a4-bd65-fcd86807c983
+		summarizeBy: none
+		sourceColumn: Name
+
+	column Unemployed
+		dataType: int64
+		formatString: 0
+		lineageTag: 2f0a5c4a-5085-5174-a06e-95839296fe7f
+		summarizeBy: none
+		sourceColumn: Unemployed
+
+	column LabourForce
+		dataType: int64
+		formatString: 0
+		lineageTag: b5d3eb13-ffa0-5b92-a6e6-a4ef208305fc
+		summarizeBy: none
+		sourceColumn: LabourForce
+
+	column Rate
+		dataType: double
+		formatString: 0.0
+		lineageTag: 3f3fd49f-57bb-53bb-b326-2667d135726d
+		summarizeBy: none
+		sourceColumn: Rate
+
+	column Share
+		dataType: double
+		formatString: 0.0
+		lineageTag: 0786d658-303c-5121-b76f-e2da37a0141e
+		summarizeBy: none
+		sourceColumn: Share
+
+	column PathD
+		dataType: string
+		lineageTag: 97049cc7-913b-5910-8430-b5d963b80164
+		summarizeBy: none
+		sourceColumn: PathD
+
+	column Fill
+		dataType: string
+		lineageTag: 8065e2d4-7f4a-5db2-a6e1-ce41a706ff50
+		summarizeBy: none
+		sourceColumn: Fill
+
+	column CX
+		dataType: double
+		formatString: 0.0
+		lineageTag: 417d2ceb-7e06-573c-83bf-48f605b2b2da
+		summarizeBy: none
+		sourceColumn: CX
+
+	column CY
+		dataType: double
+		formatString: 0.0
+		lineageTag: 89d7826a-e74a-51f6-8e3e-2fec5a500ea4
+		summarizeBy: none
+		sourceColumn: CY
+
+	column RowY
+		dataType: double
+		formatString: 0.0
+		lineageTag: b10297af-2288-5645-8c65-821ab76ceeab
+		summarizeBy: none
+		sourceColumn: RowY
+
+	column HotRowX
+		dataType: double
+		formatString: 0.0
+		lineageTag: 3214ffef-db72-5bf5-ab64-e15562cfa4bd
+		summarizeBy: none
+		sourceColumn: HotRowX
+
+	column HotMapY
+		dataType: double
+		formatString: 0.0
+		lineageTag: 52750a91-d1ad-5de2-badc-fd527cfee6c3
+		summarizeBy: none
+		sourceColumn: HotMapY
+
+	column HotRowY
+		dataType: double
+		formatString: 0.0
+		lineageTag: 254ef59e-bf9b-5e98-8a8b-b1bfc1c8c04c
+		summarizeBy: none
+		sourceColumn: HotRowY
+
+	column R
+		dataType: double
+		formatString: 0.0
+		lineageTag: 79eeda83-78d2-5618-b4e2-7244f5a8553e
+		summarizeBy: none
+		sourceColumn: R
+
+	column Note1
+		dataType: string
+		lineageTag: ac2a5af3-0433-57cc-9b5b-1b1cbc199c7e
+		summarizeBy: none
+		sourceColumn: Note1
+
+	column Note2
+		dataType: string
+		lineageTag: 09cb0cff-7aa3-5e3a-8222-fb4c4df0c6fd
+		summarizeBy: none
+		sourceColumn: Note2
+
+	partition DimGov = m
+		mode: import
+		source =
+				let
+				  Source = Csv.Document(File.Contents(DataFolder & "DimGov.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				  Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				  Typed = Table.TransformColumnTypes(Promoted, {{"Order", Int64.Type}, {"Code", type text}, {"Name", type text}, {"Unemployed", Int64.Type}, {"LabourForce", Int64.Type}, {"Rate", type number}, {"Share", type number}, {"PathD", type text}, {"Fill", type text}, {"CX", type number}, {"CY", type number}, {"RowY", type number}, {"HotRowX", type number}, {"HotMapY", type number}, {"HotRowY", type number}, {"R", type number}, {"Note1", type text}, {"Note2", type text}}, "en-US")
+				in
+				  Typed
+
+	annotation PBI_ResultType = Table

@@ -1,0 +1,45 @@
+table Facts
+	lineageTag: 1e801a90-7e14-55d6-84c1-fa71e47a6812
+
+	column Key
+		dataType: string
+		lineageTag: 937f9f4e-cbff-5ca1-9560-cb6861bfdb71
+		summarizeBy: none
+		sourceColumn: Key
+
+	column Value
+		dataType: double
+		formatString: 0.0
+		lineageTag: a61eb570-daaf-55cb-934f-59b25af8a45f
+		summarizeBy: none
+		sourceColumn: Value
+
+	column Label
+		dataType: string
+		lineageTag: ed5b79de-95c5-586a-b563-96b6954f14db
+		summarizeBy: none
+		sourceColumn: Label
+
+	column Basis
+		dataType: string
+		lineageTag: fe3c3367-7e54-5293-ae6d-25e5d9a3e75f
+		summarizeBy: none
+		sourceColumn: Basis
+
+	column Source
+		dataType: string
+		lineageTag: c047cb84-9529-59e9-ba77-94225dbb6ead
+		summarizeBy: none
+		sourceColumn: Source
+
+	partition Facts = m
+		mode: import
+		source =
+				let
+				  Source = Csv.Document(File.Contents(DataFolder & "Facts.csv"), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				  Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				  Typed = Table.TransformColumnTypes(Promoted, {{"Key", type text}, {"Value", type number}, {"Label", type text}, {"Basis", type text}, {"Source", type text}}, "en-US")
+				in
+				  Typed
+
+	annotation PBI_ResultType = Table

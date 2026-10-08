@@ -1,0 +1,19 @@
+Order,Label,Key,Total,Male,Female,HotX,HotY,MaleBasis,FemaleBasis
+1,Q1 2022,2022 Q1,22.8,20.5,31.5,22.0,137.7,published,published
+2,Q2 2022,2022 Q2,22.6,20.7,29.4,64.2,135.0,published,published
+3,Q3 2022,2022 Q3,23.1,20.5,33.1,106.5,141.9,implied,implied
+4,Q4 2022,2022 Q4,22.9,20.6,31.7,148.7,139.1,implied,implied
+5,Q1 2023,2023 Q1,21.9,19.6,30.7,190.9,125.3,implied,implied
+6,Q2 2023,2023 Q2,22.3,20.0,30.9,233.2,130.8,chart label,chart label
+7,Q3 2023,2023 Q3,22.3,19.8,31.7,275.4,130.8,published,published
+8,Q4 2023,2023 Q4,21.4,18.9,29.8,317.6,118.4,published,published
+9,Q1 2024,2024 Q1,21.4,17.4,34.7,359.9,118.4,published,published
+10,Q2 2024,2024 Q2,21.4,18.9,31.0,402.1,118.4,chart label,chart label
+11,Q3 2024,2024 Q3,21.5,18.3,33.3,444.4,119.8,implied,implied
+12,Q4 2024,2024 Q4,21.3,18.2,32.2,486.6,117.0,implied,implied
+13,Q1 2025,2025 Q1,21.3,18.6,31.2,528.8,117.0,published,published
+14,Q2 2025,2025 Q2,21.3,18.1,32.8,571.1,117.0,implied,implied
+15,Q3 2025,2025 Q3,21.4,18.0,33.9,613.3,118.4,published,published
+16,Q4 2025,2025 Q4,21.2,17.2,34.8,655.5,115.6,published,published
+17,Q1 2026,2026 Q1,21.1,17.9,32.7,697.8,114.2,published,published
+18,Q2 2026,2026 Q2,21.0,18.5,30.3,740.0,112.9,published,published

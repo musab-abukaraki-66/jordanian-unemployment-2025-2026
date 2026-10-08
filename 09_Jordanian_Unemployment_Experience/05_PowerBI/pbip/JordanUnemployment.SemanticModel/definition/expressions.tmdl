@@ -1,0 +1,5 @@
+/// Folder holding the curated CSVs. Change this one value if the project is moved.
+expression DataFolder = "C:\path\to\jordanian-unemployment-2025-2026\09_Jordanian_Unemployment_Experience\05_PowerBI\data\" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: cb0eebd4-6c85-55ea-888e-992a71f7c5ec
+
+	annotation PBI_ResultType = Text

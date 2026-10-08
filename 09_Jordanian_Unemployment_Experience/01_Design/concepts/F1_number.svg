@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900"><rect width="1440" height="900" fill="#F1ECE2"/>
+<line x1="48" y1="52" x2="1392" y2="52" stroke="#1C1B19" stroke-width="1"/>
+<text x="48" y="40" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="1.4" opacity="1" >1  THE NUMBER</text>
+<rect x="48" y="44" width="130" height="3" fill="#B5472E" opacity="1"/>
+<text x="208" y="40" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="1.4" opacity="1" >2  THE PEOPLE</text>
+<text x="368" y="40" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="1.4" opacity="1" >3  THE PLACES</text>
+<text x="1392" y="40" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#5A4F44" text-anchor="end" letter-spacing="1.2" opacity="1" >JORDANIAN CITIZENS  ·  DoS LABOUR FORCE SURVEY  ·  2025–2026</text>
+<text x="48" y="100" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="1.8" opacity="1" >THE NUMBER  ·  WHAT 21 PERCENT MEANS</text>
+<text x="48" y="152" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >Unemployment among</text>
+<text x="48" y="202" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >Jordanians has not moved</text>
+<text x="48" y="252" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >in ten quarters.</text>
+<text x="48" y="368" font-family="Georgia, serif" font-size="64" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="0" opacity="1" >21.0%</text>
+<text x="276" y="352" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >of Jordanian citizens in the labour force</text>
+<text x="276" y="372" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >were unemployed in Q2 2026 (age 15+).</text>
+<rect x="48" y="389" width="114.3" height="20" fill="#1C1B19" opacity="1"/>
+<text x="59" y="403" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#F1ECE2" text-anchor="start" letter-spacing="0.4" opacity="1" >DoS PUBLISHED</text>
+<rect x="170.3" y="389" width="185.29999999999998" height="20" fill="#D8C8A8" opacity="1"/>
+<text x="181.3" y="403" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="0.4" opacity="1" >JORDANIAN CITIZENS ONLY</text>
+<line x1="70" y1="760.0" x2="820" y2="760.0" stroke="#CFC6B3" stroke-width="0.8"/>
+<text x="58" y="764.0" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="400" fill="#5A4F44" text-anchor="end" letter-spacing="0" opacity="1" >15</text>
+<line x1="70" y1="690.952380952381" x2="820" y2="690.952380952381" stroke="#CFC6B3" stroke-width="0.8"/>
+<text x="58" y="694.952380952381" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="400" fill="#5A4F44" text-anchor="end" letter-spacing="0" opacity="1" >20</text>
+<line x1="70" y1="621.9047619047619" x2="820" y2="621.9047619047619" stroke="#CFC6B3" stroke-width="0.8"/>
+<text x="58" y="625.9047619047619" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="400" fill="#5A4F44" text-anchor="end" letter-spacing="0" opacity="1" >25</text>
+<line x1="70" y1="552.8571428571429" x2="820" y2="552.8571428571429" stroke="#CFC6B3" stroke-width="0.8"/>
+<text x="58" y="556.8571428571429" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="400" fill="#5A4F44" text-anchor="end" letter-spacing="0" opacity="1" >30</text>
+<line x1="70" y1="483.8095238095238" x2="820" y2="483.8095238095238" stroke="#CFC6B3" stroke-width="0.8"/>
+<text x="58" y="487.8095238095238" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="400" fill="#5A4F44" text-anchor="end" letter-spacing="0" opacity="1" >35</text>
+<rect x="422.94117647058823" y="670.2380952380952" width="397.05882352941177" height="6.904761904761926" fill="#D8C8A8" opacity="1"/>
+<path d="M70.0,532.1 L114.1,561.1 L158.2,510.0 L202.4,529.4 L246.5,543.2 L290.6,540.4 L334.7,529.4 L378.8,555.6 L422.9,488.0 L467.1,539.0 L511.2,507.3 L555.3,522.5 L599.4,536.3 L643.5,514.2 L687.6,499.0 L731.8,486.6 L775.9,515.6 L820.0,548.7" fill="none" opacity="1" stroke="#B5472E" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M70.0,684.0 L114.1,681.3 L158.2,684.0 L202.4,682.7 L246.5,696.5 L290.6,691.0 L334.7,693.7 L378.8,706.1 L422.9,726.9 L467.1,706.1 L511.2,714.4 L555.3,715.8 L599.4,710.3 L643.5,717.2 L687.6,718.6 L731.8,729.6 L775.9,720.0 L820.0,711.7" fill="none" opacity="1" stroke="#3E4C52" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M70.0,652.3 L114.1,655.0 L158.2,648.1 L202.4,650.9 L246.5,664.7 L290.6,659.2 L334.7,659.2 L378.8,671.6 L422.9,671.6 L467.1,671.6 L511.2,670.2 L555.3,673.0 L599.4,673.0 L643.5,673.0 L687.6,671.6 L731.8,674.4 L775.9,675.8 L820.0,677.1" fill="none" opacity="1" stroke="#1C1B19" stroke-width="3.6" stroke-linejoin="round"/>
+<circle cx="820.0" cy="677.1428571428571" r="5.5" fill="#1C1B19" opacity="1"/>
+<circle cx="290.6" cy="540.4" r="4" fill="#F1ECE2" stroke="#B5472E" stroke-width="1.6"/>
+<circle cx="467.1" cy="539.0" r="4" fill="#F1ECE2" stroke="#B5472E" stroke-width="1.6"/>
+<circle cx="290.6" cy="691.0" r="4" fill="#F1ECE2" stroke="#3E4C52" stroke-width="1.6"/>
+<circle cx="467.1" cy="706.1" r="4" fill="#F1ECE2" stroke="#3E4C52" stroke-width="1.6"/>
+<text x="832.0" y="552.7142857142858" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="0" opacity="1" >Women 30.3</text>
+<text x="832.0" y="681.1428571428571" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >All Jordanians 21.0</text>
+<text x="832.0" y="715.6666666666666" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#3E4C52" text-anchor="start" letter-spacing="0" opacity="1" >Men 18.5</text>
+<line x1="422.94117647058823" y1="632.2380952380952" x2="820.0" y2="632.2380952380952" stroke="#1C1B19" stroke-width="1"/>
+<line x1="422.94117647058823" y1="627.2380952380952" x2="422.94117647058823" y2="637.2380952380952" stroke="#1C1B19" stroke-width="1"/>
+<line x1="820.0" y1="627.2380952380952" x2="820.0" y2="637.2380952380952" stroke="#1C1B19" stroke-width="1"/>
+<text x="621.4705882352941" y="622.2380952380952" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#1C1B19" text-anchor="middle" letter-spacing="0" opacity="1" >10 quarters between 21.0% and 21.5%</text>
+<text x="70.0" y="782" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#5A4F44" text-anchor="middle" letter-spacing="0" opacity="1" >2022 Q1</text>
+<text x="202.35294117647058" y="782" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#5A4F44" text-anchor="middle" letter-spacing="0" opacity="1" >2022 Q4</text>
+<text x="334.70588235294116" y="782" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#5A4F44" text-anchor="middle" letter-spacing="0" opacity="1" >2023 Q3</text>
+<text x="467.05882352941177" y="782" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#5A4F44" text-anchor="middle" letter-spacing="0" opacity="1" >2024 Q2</text>
+<text x="599.4117647058823" y="782" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#5A4F44" text-anchor="middle" letter-spacing="0" opacity="1" >2025 Q1</text>
+<text x="731.7647058823529" y="782" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#5A4F44" text-anchor="middle" letter-spacing="0" opacity="1" >2025 Q4</text>
+<text x="70" y="440" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" fill="#5A4F44" text-anchor="start" letter-spacing="1" opacity="1" >JORDANIAN UNEMPLOYMENT RATE BY QUARTER, Q1 2022 – Q2 2026  ·  AXIS STARTS AT 15%</text>
+<line x1="960" y1="100" x2="960" y2="820" stroke="#CFC6B3" stroke-width="1"/>
+<text x="1000" y="112" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="700" fill="#5A4F44" text-anchor="start" letter-spacing="1.2" opacity="1" >THE SAME QUARTER, THREE ANSWERS</text>
+<text x="1000" y="170" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >All residents</text>
+<text x="1000" y="190" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >Jordanians and non-Jordanians together</text>
+<line x1="1000" y1="218" x2="1360" y2="218" stroke="#CFC6B3" stroke-width="1.2"/>
+<line x1="1000" y1="218" x2="1165.6" y2="218" stroke="#1C1B19" stroke-width="3"/>
+<circle cx="1165.6" cy="218" r="7" fill="#1C1B19" opacity="1"/>
+<text x="1360" y="184" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1C1B19" text-anchor="end" letter-spacing="0" opacity="1" >16.1%</text>
+<rect x="984" y="264" width="400" height="104" fill="#D8C8A8" opacity="0.6"/>
+<text x="1000" y="298" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >Jordanians</text>
+<text x="1000" y="318" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >citizens, age 15+</text>
+<line x1="1000" y1="346" x2="1360" y2="346" stroke="#CFC6B3" stroke-width="1.2"/>
+<line x1="1000" y1="346" x2="1216.0" y2="346" stroke="#B5472E" stroke-width="3"/>
+<circle cx="1216.0" cy="346" r="7" fill="#B5472E" opacity="1"/>
+<text x="1360" y="312" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#B5472E" text-anchor="end" letter-spacing="0" opacity="1" >21.0%</text>
+<text x="1000" y="426" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >Jordanian women</text>
+<text x="1000" y="446" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >citizens, age 15+</text>
+<line x1="1000" y1="474" x2="1360" y2="474" stroke="#CFC6B3" stroke-width="1.2"/>
+<line x1="1000" y1="474" x2="1311.6571428571428" y2="474" stroke="#1C1B19" stroke-width="3"/>
+<circle cx="1311.6571428571428" cy="474" r="7" fill="#1C1B19" opacity="1"/>
+<text x="1360" y="440" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#1C1B19" text-anchor="end" letter-spacing="0" opacity="1" >30.3%</text>
+<text x="1000" y="562" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >Non-Jordanian residents: 8.2%. Expatriate workers are 42% of the</text>
+<text x="1000" y="580" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >employed (Q2 2026); the all-resident rate is lower.</text>
+<line x1="960" y1="620" x2="1392" y2="620" stroke="#CFC6B3" stroke-width="1"/>
+<text x="1000" y="650" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="700" fill="#5A4F44" text-anchor="start" letter-spacing="1.2" opacity="1" >THE PEOPLE BEHIND THE RATE  ·  2020 → 2025</text>
+<text x="1000" y="692" font-family="Georgia, serif" font-size="34" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >+255,854</text>
+<text x="1190" y="692" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >more Jordanians employed</text>
+<text x="1000" y="736" font-family="Georgia, serif" font-size="34" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="0" opacity="1" >+27,570</text>
+<text x="1190" y="736" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >more Jordanians unemployed</text>
+<text x="1000" y="764" font-family="'Segoe UI', sans-serif" font-size="12.5" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >Rate over the same years: 23.2% to 21.3%.</text>
+<rect x="1000" y="779" width="185.29999999999998" height="20" fill="#B5472E" opacity="1"/>
+<text x="1011" y="793" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#F1ECE2" text-anchor="start" letter-spacing="0.4" opacity="1" >DERIVED FROM DoS COUNTS</text>
+<line x1="48" y1="846" x2="1392" y2="846" stroke="#CFC6B3" stroke-width="1"/>
+<text x="48" y="870" font-family="'Segoe UI', sans-serif" font-size="11.5" font-weight="400" fill="#5A4F44" text-anchor="start" letter-spacing="0" opacity="1" >Source: DoS press releases (Jordanian section); PxWeb counts 2020, 2025. Hollow points: read from DoS chart labels only. Provenance: 02_Data/quarterly_series_provenance.csv</text>
+<rect x="1160" y="852" width="232" height="34" fill="#1C1B19" opacity="1"/>
+<text x="1276" y="874" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#F1ECE2" text-anchor="middle" letter-spacing="0.4" opacity="1" >NEXT: WHO ARE THEY?  →</text></svg>

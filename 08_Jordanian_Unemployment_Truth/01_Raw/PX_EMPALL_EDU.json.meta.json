@@ -1,0 +1,9 @@
+{
+ "filename": "PX_EMPALL_EDU.json",
+ "title": "DoS PxWeb EMPALL by EDU x Time",
+ "url": "https://jorinfo.dos.gov.jo/Databank/api/v1/en/DOS_Database/12/EMPALL",
+ "retrieved": "2026-10-08T00:50:38+03:00",
+ "size": 1481,
+ "sha256": "4936b8afea51754dac9cb40b95b1a796982474e90e75c9f48af0b42c0f9d2595",
+ "status": "OK"
+}

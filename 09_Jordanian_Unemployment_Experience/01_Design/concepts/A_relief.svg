@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900"><rect width="1440" height="900" fill="#F1ECE2"/>
+<line x1="48" y1="52" x2="1392" y2="52" stroke="#1C1B19" stroke-width="1"/>
+<text x="48" y="40" font-family="Consolas, monospace" font-size="12" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.5" opacity="1" >CONCEPT A  —  THE RELIEF</text>
+<text x="1392" y="40" font-family="Consolas, monospace" font-size="11" font-weight="400" fill="#8C8577" text-anchor="end" letter-spacing="0" opacity="1" >08_Jordanian_Unemployment_Truth  ·  DoS Labour Force Survey  ·  Jordanian citizens 15+</text>
+<text x="48" y="876" font-family="Consolas, monospace" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >Unemployed Jordanians by governorate, 2025 annual. Derived from DoS PxWeb person counts (EMPALL1, EMPALL). Boundaries: geoBoundaries (CC BY 2.5). Spire positions: governorate capital cities.</text>
+<line x1="48" y1="858" x2="1392" y2="858" stroke="#CFC6B3" stroke-width="1"/>
+<path d="M513.7,602.3 L562.0,607.6 L633.3,575.8 L674.7,539.5 L786.3,526.1 L815.8,492.7 L868.7,476.3 L770.4,400.1 L608.3,399.6 L607.5,408.6 L617.5,415.5 L568.5,462.8 L559.8,460.5 L527.4,466.6 L496.0,465.1 L490.2,480.6 L478.4,492.0 L480.6,504.2 L466.1,516.1 L463.2,524.0 L467.4,529.7 L472.6,531.4 L491.8,531.3 L503.3,537.5 L512.8,561.6 L513.7,592.9Z" fill="#722618" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M608.3,399.6 L564.5,399.7 L561.9,398.0 L565.5,388.7 L562.0,384.6 L549.1,382.9 L539.6,384.6 L523.6,381.3 L512.6,381.8 L509.0,389.7 L498.7,399.8 L505.3,414.0 L496.8,422.8 L494.2,430.8 L487.9,434.7 L500.6,437.4 L506.4,426.4 L535.7,428.5 L557.1,434.5 L582.9,448.8 L617.5,415.5 L607.5,408.6 L608.0,403.0Z" fill="#CC9A7D" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M562.0,384.6 L573.4,372.8 L571.1,366.6 L564.9,364.0 L563.7,360.5 L569.3,353.9 L568.9,344.9 L543.6,347.6 L537.0,355.4 L521.8,357.0 L513.0,377.5 L512.6,381.8 L523.6,381.3 L539.6,384.6 L549.1,382.9 L560.2,384.2Z" fill="#C99073" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M551.4,347.5 L555.4,340.9 L546.3,337.9 L548.2,335.0 L564.2,330.8 L570.7,325.2 L578.6,324.6 L587.2,319.6 L575.1,311.3 L555.7,311.3 L556.3,309.5 L550.4,309.4 L548.2,307.1 L537.4,306.7 L527.6,321.8 L528.7,347.4 L521.8,357.0 L535.9,355.8 L540.7,349.0 L549.8,347.6Z" fill="#C17357" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M582.5,315.5 L597.8,308.6 L594.3,299.2 L604.5,293.0 L598.7,291.1 L581.3,295.5 L573.8,303.6 L561.0,306.3 L554.9,310.6 L572.2,310.6 L580.9,315.3Z" fill="#C48064" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M556.3,309.5 L561.0,306.3 L573.8,303.6 L578.8,296.7 L589.2,293.6 L582.7,286.6 L579.2,289.0 L568.9,289.1 L562.3,291.8 L552.8,291.3 L545.6,300.0 L548.6,308.6 L551.8,309.5Z" fill="#C37B5F" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M548.2,307.1 L545.8,299.1 L553.5,290.9 L562.3,291.8 L568.9,289.1 L579.2,289.0 L582.7,286.6 L589.2,293.6 L597.7,291.0 L604.5,293.0 L608.9,290.0 L606.5,285.8 L618.7,286.6 L620.1,273.9 L613.9,266.5 L614.8,262.4 L605.1,260.4 L606.6,258.5 L602.5,256.5 L580.3,252.9 L563.5,258.9 L555.3,259.3 L546.5,263.5 L547.2,269.9 L539.3,287.7 L536.9,305.9 L544.5,307.2Z" fill="#C07054" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M598.4,306.1 L603.0,306.7 L601.6,310.2 L606.3,312.0 L612.2,310.1 L617.9,312.8 L630.5,311.1 L644.6,313.8 L665.3,312.1 L669.5,316.2 L731.6,331.1 L861.6,357.1 L1038.7,328.3 L1089.3,304.2 L1085.2,291.9 L1052.0,297.1 L1046.7,279.7 L1062.6,277.2 L1034.0,190.0 L728.4,296.5 L664.6,289.5 L637.5,274.5 L619.8,276.2 L618.2,287.0 L606.5,285.8 L608.6,290.7 L594.3,299.2 L598.3,305.5Z" fill="#C2785D" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M582.9,448.8 L557.1,434.5 L535.7,428.5 L506.4,426.4 L500.6,437.4 L487.9,434.7 L485.6,436.4 L472.4,455.2 L485.1,460.1 L490.6,464.8 L527.4,466.6 L551.7,463.2 L557.2,460.6 L568.5,462.8 L579.0,452.5Z" fill="#C88F72" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M496.0,465.1 L488.1,464.2 L485.1,460.1 L472.4,455.2 L459.4,468.2 L449.8,484.0 L452.2,488.8 L445.3,502.6 L445.8,514.3 L435.1,522.2 L429.8,530.7 L427.9,541.3 L408.7,567.0 L409.5,576.2 L404.7,580.5 L401.0,590.3 L513.7,602.3 L512.8,561.6 L503.3,537.5 L491.8,531.3 L470.0,530.8 L463.2,524.0 L467.3,513.8 L480.6,504.2 L478.4,492.0 L490.2,480.6 L496.1,466.1Z" fill="#D8C7A7" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M770.4,400.1 L698.9,349.1 L684.8,353.0 L662.7,341.3 L665.6,337.8 L677.2,334.3 L659.1,321.8 L638.6,321.0 L632.3,325.1 L618.6,325.0 L613.5,327.5 L602.1,329.0 L587.2,319.6 L578.6,324.6 L570.7,325.2 L567.2,329.6 L548.2,335.0 L546.2,337.1 L555.4,340.9 L551.4,347.5 L569.6,345.7 L569.3,353.9 L563.7,360.5 L564.9,364.0 L571.1,366.6 L573.4,372.8 L562.0,384.6 L565.5,388.7 L562.2,399.2 L747.2,400.5Z" fill="#CEA284" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<path d="M587.2,319.6 L602.1,329.0 L613.5,327.5 L618.6,325.0 L632.3,325.1 L638.6,321.0 L659.1,321.8 L677.2,334.3 L665.6,337.8 L662.7,341.3 L684.8,353.0 L698.9,349.1 L739.5,376.8 L861.6,357.1 L731.6,331.1 L669.5,316.2 L665.3,312.1 L644.6,313.8 L630.5,311.1 L617.9,312.8 L612.2,310.1 L606.3,312.0 L601.6,310.2 L603.0,306.7 L598.4,306.1 L596.8,309.7 L582.5,315.5 L585.9,319.2Z" fill="#CA9679" opacity="1" stroke="#F1ECE2" stroke-width="1.6" stroke-linejoin="round"/>
+<ellipse cx="587.1" cy="274.6" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="576.1404469978621" y="107.66574860111285" width="11" height="164.9187" fill="#2A2927" opacity="1"/>
+<rect x="587.1404469978621" y="107.66574860111285" width="11" height="164.9187" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="587.1" cy="107.7" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="636.5" cy="295.5" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="625.4870184532355" y="255.06609864212078" width="11" height="38.418299999999995" fill="#2A2927" opacity="1"/>
+<rect x="636.4870184532355" y="255.06609864212078" width="11" height="38.418299999999995" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="636.5" cy="255.1" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="568.7" cy="296.5" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="557.6570785491899" y="275.7473343583598" width="11" height="18.7323" fill="#2A2927" opacity="1"/>
+<rect x="568.6570785491899" y="275.7473343583598" width="11" height="18.7323" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="568.7" cy="275.7" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="589.9" cy="301.5" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="578.8616213571864" y="279.589612939552" width="11" height="19.8662" fill="#2A2927" opacity="1"/>
+<rect x="589.8616213571864" y="279.589612939552" width="11" height="19.8662" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="589.9" cy="279.6" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="614.2" cy="322.4" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="603.2040208959086" y="234.54996298056062" width="11" height="85.80579999999999" fill="#2A2927" opacity="1"/>
+<rect x="614.2040208959086" y="234.54996298056062" width="11" height="85.80579999999999" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="614.2" cy="234.5" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="560.7" cy="325.3" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="549.7392326836849" y="273.6232701292762" width="11" height="49.718199999999996" fill="#2A2927" opacity="1"/>
+<rect x="560.7392326836849" y="273.6232701292762" width="11" height="49.718199999999996" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="560.7" cy="273.6" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="588.6" cy="334.3" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="577.6115742429872" y="67.2685915754227" width="11" height="265.03" fill="#2A2927" opacity="1"/>
+<rect x="588.6115742429872" y="67.2685915754227" width="11" height="265.03" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="588.6" cy="67.3" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="564.1" cy="357.2" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="553.0732788608226" y="336.95481304890825" width="11" height="18.234199999999998" fill="#2A2927" opacity="1"/>
+<rect x="564.0732788608226" y="336.95481304890825" width="11" height="18.234199999999998" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="564.1" cy="337.0" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="541.6" cy="410.9" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="530.5697883785093" y="378.2127417257872" width="11" height="30.718999999999998" fill="#2A2927" opacity="1"/>
+<rect x="541.5697883785093" y="378.2127417257872" width="11" height="30.718999999999998" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="541.6" cy="378.2" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="521.0" cy="444.8" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="510.0273115514127" y="432.4626560778962" width="11" height="10.3071" fill="#2A2927" opacity="1"/>
+<rect x="521.0273115514127" y="432.4626560778962" width="11" height="10.3071" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="521.0" cy="432.5" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="529.0" cy="509.5" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="517.9946451829742" y="485.78677763339863" width="11" height="21.673299999999998" fill="#2A2927" opacity="1"/>
+<rect x="528.9946451829742" y="485.78677763339863" width="11" height="21.673299999999998" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="529.0" cy="485.8" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<ellipse cx="410.3" cy="575.1" rx="15" ry="6.3" fill="#1C1B19" opacity=".18"/>
+<rect x="399.298693224251" y="562.7178349051396" width="11" height="10.4278" fill="#2A2927" opacity="1"/>
+<rect x="410.298693224251" y="562.7178349051396" width="11" height="10.4278" fill="#0E0D0C" opacity="1"/>
+<ellipse cx="410.3" cy="562.7" rx="11" ry="4.6" fill="#F1ECE2" stroke="#1C1B19" stroke-width="1"/>
+<path d="M588.6,67.3 L1076.0,136.0 L1090,136.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="132" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >AMMAN</text>
+<text x="1100" y="153" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >19.1%</text>
+<text x="1160" y="152" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >155,900 unemployed</text>
+<rect x="1300" y="134" width="92.0" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M587.1,107.7 L1076.0,183.0 L1090,183.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="179" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >IRBID</text>
+<text x="1100" y="200" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="0" opacity="1" >24.6%</text>
+<text x="1160" y="199" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >97,011 unemployed</text>
+<rect x="1300" y="181" width="57.24831302116742" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M614.2,234.5 L1076.0,230.0 L1090,230.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="226" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >ZARQA</text>
+<text x="1100" y="247" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >20.4%</text>
+<text x="1160" y="246" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >50,474 unemployed</text>
+<rect x="1300" y="228" width="29.78581141757537" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M636.5,255.1 L1076.0,277.0 L1090,277.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="273" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >MAFRAQ</text>
+<text x="1100" y="294" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="0" opacity="1" >23.6%</text>
+<text x="1160" y="293" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >22,599 unemployed</text>
+<rect x="1300" y="275" width="13.33616420782553" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M560.7,273.6 L1076.0,324.0 L1090,324.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="320" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >BALQA</text>
+<text x="1100" y="341" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="0" opacity="1" >24.2%</text>
+<text x="1160" y="340" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >29,246 unemployed</text>
+<rect x="1300" y="322" width="17.258704297626682" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M568.7,275.7 L1076.0,371.0 L1090,371.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="367" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >AJLOUN</text>
+<text x="1100" y="388" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="0" opacity="1" >23.4%</text>
+<text x="1160" y="387" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >11,019 unemployed</text>
+<rect x="1300" y="369" width="6.502552918537525" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M589.9,279.6 L1076.0,418.0 L1090,418.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="414" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >JERASH</text>
+<text x="1100" y="435" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >22.8%</text>
+<text x="1160" y="434" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >11,686 unemployed</text>
+<rect x="1300" y="416" width="6.896164207825529" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M564.1,337.0 L1076.0,465.0 L1090,465.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="461" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >MADABA</text>
+<text x="1100" y="482" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >21.0%</text>
+<text x="1160" y="481" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >10,726 unemployed</text>
+<rect x="1300" y="463" width="6.329647209749839" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M541.6,378.2 L1076.0,512.0 L1090,512.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="508" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >KARAK</text>
+<text x="1100" y="529" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >19.9%</text>
+<text x="1160" y="528" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >18,070 unemployed</text>
+<rect x="1300" y="510" width="10.663502245028866" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M521.0,432.5 L1076.0,559.0 L1090,559.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="555" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >TAFILAH</text>
+<text x="1100" y="576" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >21.2%</text>
+<text x="1160" y="575" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >6,063 unemployed</text>
+<rect x="1300" y="557" width="3.5779089159717765" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M529.0,485.8 L1076.0,606.0 L1090,606.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="602" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >MA'AN</text>
+<text x="1100" y="623" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="0" opacity="1" >28.8%</text>
+<text x="1160" y="622" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >12,749 unemployed</text>
+<rect x="1300" y="604" width="7.523463758819757" height="10" fill="#1C1B19" opacity="1"/>
+<path d="M410.3,562.7 L1076.0,653.0 L1090,653.0" fill="none" opacity="0.65" stroke="#1C1B19" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="1100" y="649" font-family="'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#1C1B19" text-anchor="start" letter-spacing="1.2" opacity="1" >AQABA</text>
+<text x="1100" y="670" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >15.2%</text>
+<text x="1160" y="669" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >6,134 unemployed</text>
+<rect x="1300" y="651" width="3.6198075689544584" height="10" fill="#1C1B19" opacity="1"/>
+<text x="48" y="100" font-family="Consolas, monospace" font-size="11" font-weight="600" fill="#B5472E" text-anchor="start" letter-spacing="1.8" opacity="1" >THE RELIEF  ·  GOVERNORATE ATLAS</text>
+<text x="48" y="150" font-family="Georgia, serif" font-size="38" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >Where the rate</text>
+<text x="48" y="196" font-family="Georgia, serif" font-size="38" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >is highest is not</text>
+<text x="48" y="242" font-family="Georgia, serif" font-size="38" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >where the people are.</text>
+<text x="48" y="308" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#3E4C52" text-anchor="start" letter-spacing="0" opacity="1" >Ground colour is the unemployment rate.</text>
+<text x="48" y="329" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#3E4C52" text-anchor="start" letter-spacing="0" opacity="1" >Spire height is the number of unemployed</text>
+<text x="48" y="350" font-family="'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#3E4C52" text-anchor="start" letter-spacing="0" opacity="1" >Jordanians. The two tell different stories.</text>
+<line x1="48" y1="380" x2="330" y2="380" stroke="#1C1B19" stroke-width="1"/>
+<text x="48" y="412" font-family="Consolas, monospace" font-size="10" font-weight="600" fill="#8C8577" text-anchor="start" letter-spacing="1.5" opacity="1" >HIGHEST RATE</text>
+<text x="48" y="456" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#B5472E" text-anchor="start" letter-spacing="0" opacity="1" >28.8%</text>
+<text x="48" y="478" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#3E4C52" text-anchor="start" letter-spacing="0" opacity="1" >Ma'an  ·  12,749 unemployed Jordanians</text>
+<text x="48" y="524" font-family="Consolas, monospace" font-size="10" font-weight="600" fill="#8C8577" text-anchor="start" letter-spacing="1.5" opacity="1" >MOST PEOPLE</text>
+<text x="48" y="568" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >155,900</text>
+<text x="48" y="590" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#3E4C52" text-anchor="start" letter-spacing="0" opacity="1" >Amman  ·  rate 19.1%  ·  36% of the national total</text>
+<text x="48" y="636" font-family="Consolas, monospace" font-size="10" font-weight="600" fill="#8C8577" text-anchor="start" letter-spacing="1.5" opacity="1" >THREE GOVERNORATES</text>
+<text x="48" y="680" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#1C1B19" text-anchor="start" letter-spacing="0" opacity="1" >70%</text>
+<text x="48" y="702" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#3E4C52" text-anchor="start" letter-spacing="0" opacity="1" >Amman, Irbid and Zarqa hold 7 in 10 of the unemployed</text>
+<text x="48" y="760" font-family="Consolas, monospace" font-size="10" font-weight="600" fill="#8C8577" text-anchor="start" letter-spacing="1.2" opacity="1" >GROUND  ·  RATE</text>
+<rect x="48" y="770" width="12" height="10" fill="#D8C8A8" opacity="1"/>
+<rect x="60" y="770" width="12" height="10" fill="#D6BF9F" opacity="1"/>
+<rect x="72" y="770" width="12" height="10" fill="#D3B697" opacity="1"/>
+<rect x="84" y="770" width="12" height="10" fill="#D0AC8E" opacity="1"/>
+<rect x="96" y="770" width="12" height="10" fill="#CEA385" opacity="1"/>
+<rect x="108" y="770" width="12" height="10" fill="#CC9A7C" opacity="1"/>
+<rect x="120" y="770" width="12" height="10" fill="#C99174" opacity="1"/>
+<rect x="132" y="770" width="12" height="10" fill="#C6886B" opacity="1"/>
+<rect x="144" y="770" width="12" height="10" fill="#C47E62" opacity="1"/>
+<rect x="156" y="770" width="12" height="10" fill="#C2755A" opacity="1"/>
+<rect x="168" y="770" width="12" height="10" fill="#BF6C51" opacity="1"/>
+<rect x="180" y="770" width="12" height="10" fill="#AB422B" opacity="1"/>
+<rect x="192" y="770" width="12" height="10" fill="#973824" opacity="1"/>
+<rect x="204" y="770" width="12" height="10" fill="#822E1E" opacity="1"/>
+<rect x="216" y="770" width="12" height="10" fill="#6E2417" opacity="1"/>
+<text x="48" y="796" font-family="Consolas, monospace" font-size="10" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >15%</text>
+<text x="228" y="796" font-family="Consolas, monospace" font-size="10" font-weight="400" fill="#8C8577" text-anchor="end" letter-spacing="0" opacity="1" >29%</text>
+<text x="48" y="818" font-family="Consolas, monospace" font-size="11" font-weight="400" fill="#8C8577" text-anchor="start" letter-spacing="0" opacity="1" >Rates are derived annual 2025: unemployed ÷ (unemployed + employed), DoS counts. Not a DoS-published governorate rate.</text></svg>
